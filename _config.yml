@@ -1,11 +1,11 @@
 # Site settings
 author: Kaela Clement
-title: 
+title: Unexpected Input
 header-img: img/home-bg.png
 email: stephanie.kaela@gmail.com
 copyright_name: Kaela Clement
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning one error at a time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kaelaclement
