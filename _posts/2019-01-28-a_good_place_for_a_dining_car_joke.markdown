@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "A Good Place for a Dining Car Joke"
-date:       2019-01-28 05:39:30 +0000
+date:       2019-01-28 00:39:31 -0500
 permalink:  a_good_place_for_a_dining_car_joke
 ---
 
 
-I never said I was good at clever blog titles. I don't, however, usually struggle with originality in general. You see, I've heard that recipe apps are a bit cliche for a Rails project. I can tell you I had my fair share of arguments with myself on the whole issue. In the end, however, it came down to something pretty simple: I'm a vegetarian. Not just a vegetarian, but a vegetarian who is low on time and energy and won't stand for tasteless food. Honestly, I hate salads of the pasta-less variety. In the age of the food blogger, easy recipes are hard to come by as it is, easy *vegetarian* recipes are unicorns in the wild.
+I never said I was good at clever blog titles. I don't, however, usually struggle with originality in general. You see, I've heard that recipe apps are a bit cliche for a Rails project. I can tell you I had my fair share of arguments with myself on the whole issue. In the end, however, it came down to something pretty simple: I'm a vegetarian. Not just a vegetarian, but a vegetarian who is low on time and energy and won't stand for tasteless food. Honestly, I hate salads of the pasta-less variety. In the age of the food blogger, easy recipes are hard to come by as it is - easy *vegetarian* recipes are unicorns in the wild.
 
 Since half the battle for a vegetarian (especially a new one) is just finding something that sounds appealing to eat, I decided my join table would be a Review model. People can simply "like" a recipe, but also leave comments - most cooks know how valuable input from other cooks can be! I also set up my Recipe model to sort recipes by recently uploaded or by recipes with the most likes if you just need a recipe you can trust. I have nested routes for a user's recipes, so you can see more from a cook you like, and if you are that cook, routes for editing or creating a new recipe are also nested.
 
