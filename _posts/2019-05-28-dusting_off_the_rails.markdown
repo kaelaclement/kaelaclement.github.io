@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Dusting off the Rails"
-date:       2019-05-28 04:06:36 +0000
+title:      "Dusting Off the Rails"
+date:       2019-05-28 00:06:37 -0400
 permalink:  dusting_off_the_rails
 ---
 
