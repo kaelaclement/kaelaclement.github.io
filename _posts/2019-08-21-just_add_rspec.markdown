@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Just add RSpec!"
-date:       2019-08-21 16:29:48 +0000
+date:       2019-08-21 12:29:49 -0400
 permalink:  just_add_rspec
 ---
 
@@ -13,7 +13,11 @@ How did I even get here? I'll tell you. I promise I won't go all food blogger on
 I've heard the advice more than once in the last week: focus on what you love. While I panicked about limiting myself, far more experienced developers said, "Focus on what you want to be doing. If you love frontend, build that expertise, don't waste your time with the database." So there was step one, I know I love backend development. I'm still working out some kinks on what steps 3+ will be, but step 2 turned out to be, "add testing to your current projects." Of course I know *about* TDD. While writing tests is considered more advanced, one of the first things we learn is what Test Driven Development is, why it works, and how to run the tests. I've gathered that, at my level, I'm not necessarily expected to write robust tests, but that doesn't mean I can't get started.
 
 
+
+
 ### The Goods
+
+
 
 
 ## Step 0.5: What about this test folder?
