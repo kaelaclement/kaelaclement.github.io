@@ -12,14 +12,6 @@ How did I even get here? I'll tell you. I promise I won't go all food blogger on
 
 I've heard the advice more than once in the last week: focus on what you love. While I panicked about limiting myself, far more experienced developers said, "Focus on what you want to be doing. If you love frontend, build that expertise, don't waste your time with the database." So there was step one, I know I love backend development. I'm still working out some kinks on what steps 3+ will be, but step 2 turned out to be, "add testing to your current projects." Of course I know *about* TDD. While writing tests is considered more advanced, one of the first things we learn is what Test Driven Development is, why it works, and how to run the tests. I've gathered that, at my level, I'm not necessarily expected to write robust tests, but that doesn't mean I can't get started.
 
-
-
-
-# The Goods
-
-
-
-
 ## Step 0.5: What about this test folder?
 
 If you're like me, you forgot to tell Rails you didn't want tests/wanted to use RSpec when you ran `rails new`. In that case, there's already a test folder in your root directory. We don't need this if we're using RSpec.
