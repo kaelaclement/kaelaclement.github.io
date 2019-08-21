@@ -75,7 +75,7 @@ require 'database_cleaner'
 require 'capybara/rspec'
 ```
 
-#### Database Cleaner
+**Database Cleaner**
 
 In the `RSpec.configure` block, change
 
@@ -114,7 +114,7 @@ config.before(:suite) do
 
 This is specific to using Capybara which, of course, we are.
 
-#### Factory Bot
+**Factory Bot**
 
 At the top of your `RSpec.configure` block, you have this:
 
@@ -124,7 +124,7 @@ You want this:
 
 `config.include FactoryBot::Syntax::Methods`
 
-#### Shoulda Matchers
+**Shoulda Matchers**
 
 Finally, to use these lovely methods, at the very very bottom of your `spec/rails_helper.rb` or in its own file if you'd like, you'll need to add this little block:
 
