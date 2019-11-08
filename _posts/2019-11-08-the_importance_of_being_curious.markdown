@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Importance of Being Curious"
-date:       2019-11-08 20:27:18 +0000
+date:       2019-11-08 15:27:19 -0500
 permalink:  the_importance_of_being_curious
 ---
 
