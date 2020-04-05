@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I thought this was a dev blog?"
-date:       2020-04-05 14:59:39 +0000
+date:       2020-04-05 10:59:41 -0400
 permalink:  i_thought_this_was_a_dev_blog
 ---
 
